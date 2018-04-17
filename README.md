@@ -1,4 +1,4 @@
-# Ecuaciones Lineales
+# Ecuaciones Lineales 2018
 
 Es un repositorio de trabajo para la asignatura de 
 Algoritmia y Programación Estructurada 
