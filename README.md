@@ -17,6 +17,7 @@ El presente es un trabajo de los alumnos:
 * Ramírez Salazar Alejandro 
 * Sanchez Espinosa Ivan David
 * Pensamiento Robledo Sabrina Erika
+
 Coordinados por el profesor:
 
 Rafael Norman Saucedo Delgado
