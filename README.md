@@ -9,7 +9,6 @@ El presente es un trabajo de los alumnos:
 * Carranza López Ricardo Alexis
 * Hugo Andres Machorro Melendez
 * Ramírez Salazar Alejandro  
-* Ramírez Salazar Alejandro 
 * Avendaño Llanos David
 * Ramos Herrera Omar
 
