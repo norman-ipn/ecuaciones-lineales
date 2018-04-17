@@ -1,7 +1,6 @@
 # Ecuaciones Lineales
 
-Es un repositorio de trabajo para 
-la asignatura de 
+Es un repositorio de trabajo para la asignatura de 
 Algoritmia y Programación Estructurada 
 que se imparte en la ESCOM-IPN, México.
 
