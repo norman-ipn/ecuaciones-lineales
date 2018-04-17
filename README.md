@@ -1,15 +1,15 @@
 # Ecuaciones Lineales
 
-Es un repositorio de trabajo para 
-la asignatura de 
+Es un repositorio de trabajo para la asignatura de 
 Algoritmia y Programación Estructurada 
 que se imparte en la ESCOM-IPN, México.
 
 El presente es un trabajo de los alumnos:
 
 * Carranza López Ricardo Alexis
-* Sanchez Espinosa Ivan David 
+* Ramírez Salazar Alejandro : 
 *
+* Sanchez Espinosa Ivan David
 
 Coordinados por el profesor:
 
