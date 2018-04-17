@@ -18,6 +18,17 @@ El presente es un trabajo de los alumnos:
 * Ramos Herrera Omar
 * Pérez González Mayer Abraham
 * Caamal Briseño Diego Alejandro  
+* Avendaño Llanos David
+
+
+* Pérez González Mayer Abraham
+
+* Pensamiento Robledo Sabrina Erika
+
+* Caamal Briseño Diego Alejandro  
+
+
+
 * Arellano Aguillón Shu Nashy Nizarely
 Coordinados por el profesor:
 
