@@ -13,19 +13,13 @@ El presente es un trabajo de los alumnos:
 * Ramírez Salazar Alejandro  
 * Avendaño Llanos David
 * Ramos Herrera Omar
-<<<<<<< HEAD
 * Avendaño Llanos David
-  
-=======
-
-
 * Pérez González Mayer Abraham
 
 * Pensamiento Robledo Sabrina Erika
 
 * Caamal Briseño Diego Alejandro  
-
->>>>>>> 0d69cc5cf56358570671bc3cd74d104c2690ef61
+* Contreras Mercado Jorge Armando
 Coordinados por el profesor:
 
 Rafael Norman Saucedo Delgado
