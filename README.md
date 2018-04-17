@@ -7,19 +7,19 @@ que se imparte en la ESCOM-IPN, México.
 El presente es un trabajo de los alumnos:
 * Garcia Reyeo
 * Carranza López Ricardo Alexis 
-* Ramírez Salazar Alejandro
-* Carranza López Ricardo Alexis
+* Ramírez Salazar Alejandros
 * Hugo Andres Machorro Melendez
 * Ramírez Salazar Alejandro  
 * Avendaño Llanos David
 * Ramos Herrera Omar
 * Avendaño Llanos David
+* Ramos Herrera Omar  
 * Pérez González Mayer Abraham
-
-* Pensamiento Robledo Sabrina Erika
-
-* Caamal Briseño Diego Alejandro  
+* Caamal Briseño Diego Alejandro
 * Contreras Mercado Jorge Armando
+* Ramírez Salazar Alejandro 
+* Sanchez Espinosa Ivan David
+* Pensamiento Robledo Sabrina Erika
 Coordinados por el profesor:
 
 Rafael Norman Saucedo Delgado
