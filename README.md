@@ -8,7 +8,7 @@ El presente es un trabajo de los alumnos:
 
 * Carranza López Ricardo Alexis
 * Ramírez Salazar Alejandro : 
-*
+* Avendaño Llanos David
 
 Coordinados por el profesor:
 
