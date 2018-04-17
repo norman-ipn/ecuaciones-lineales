@@ -10,8 +10,21 @@ El presente es un trabajo de los alumnos:
 * Ramírez Salazar Alejandro 
 * Avendaño Llanos David
 * Ramos Herrera Omar
-* Caamal Briseño Diego Alejandro
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Caamal Briseño Diego Alejandro  
+
 Coordinados por el profesor:
 
 Rafael Norman Saucedo Delgado
