@@ -11,7 +11,7 @@ El presente es un trabajo de los alumnos:
 * Avendaño Llanos David
 * Ramos Herrera Omar
 * Avendaño Llanos David
-* Pensamiento Robledo Sabrina Erika
+  
 Coordinados por el profesor:
 
 Rafael Norman Saucedo Delgado
