@@ -11,6 +11,7 @@ El presente es un trabajo de los alumnos:
 * Avendaño Llanos David
 * Ramos Herrera Omar
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 * Ramírez Salazar Alejandro  
 <<<<<<< HEAD
@@ -23,6 +24,8 @@ El presente es un trabajo de los alumnos:
 
 =======
 * Ramírez Salazar Alejandro 
+=======
+>>>>>>> 536b76cd9d48e89188017f5702fdea31aea34622
 * Avendaño Llanos David
 >>>>>>> 5471f3722d6ee89ee61261ea5e0370df4087de27
 
