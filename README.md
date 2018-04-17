@@ -8,7 +8,7 @@ El presente es un trabajo de los alumnos:
 * Garcia Reyeo
 * Carranza López Ricardo Alexis 
 * Ramírez Salazar Alejandros
-* Hugo Andres Machorro Melendez
+* Machorro Melendez Hugo Andres
 * Ramírez Salazar Alejandro  
 * Avendaño Llanos David
 * Ramos Herrera Omar  
