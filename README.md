@@ -18,11 +18,6 @@ El presente es un trabajo de los alumnos:
 
 
 
-
-
-
-
-
 * Caamal Briseño Diego Alejandro  
 
 Coordinados por el profesor:
