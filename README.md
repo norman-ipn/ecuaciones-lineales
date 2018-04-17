@@ -12,7 +12,6 @@ El presente es un trabajo de los alumnos:
 * Ramírez Salazar Alejandro 
 * Avendaño Llanos David
 * Ramos Herrera Omar
-* Ramírez Salazar Alejandro 
 * Avendaño Llanos David
 
 Coordinados por el profesor:
