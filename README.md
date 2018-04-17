@@ -8,14 +8,10 @@ El presente es un trabajo de los alumnos:
 * Garcia Reyes Luis Gerardo
 * Carranza López Ricardo Alexis
 * Ramírez Salazar Alejandro 
-* Ramírez Salazar Alejandro : 
 * Avendaño Llanos David
 * Ramos Herrera Omar
-* Ramírez Salazar Alejandro  
-* Avendaño Llanos David
-
 * Caamal Briseño Diego Alejandro
- 
+  
 Coordinados por el profesor:
 
 Rafael Norman Saucedo Delgado
