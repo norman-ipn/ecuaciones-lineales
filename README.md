@@ -5,10 +5,12 @@ Algoritmia y Programación Estructurada
 que se imparte en la ESCOM-IPN, México.
 
 El presente es un trabajo de los alumnos:
-
+* Garcia Reyes Luis Gerardo
 * Carranza López Ricardo Alexis
-<<<<<<< HEAD
+* Ramírez Salazar Alejandro 
+* Avendaño Llanos David
 * Ramos Herrera Omar
+<<<<<<< HEAD
 =======
 * Ramírez Salazar Alejandro  
 <<<<<<< HEAD
@@ -19,6 +21,10 @@ El presente es un trabajo de los alumnos:
 >>>>>>> 343ab12bd9df3fa360a3a533439c7c79ef78fd8e
 >>>>>>> db7f79586535c19a14b0b17d7c0d7473fdc52a61
 
+=======
+* Ramírez Salazar Alejandro 
+* Avendaño Llanos David
+>>>>>>> 5471f3722d6ee89ee61261ea5e0370df4087de27
 
 * Sanchez Espinosa Ivan David
 Coordinados por el profesor:
