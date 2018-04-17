@@ -8,7 +8,7 @@ que se imparte en la ESCOM-IPN, México.
 El presente es un trabajo de los alumnos:
 
 * Carranza López Ricardo Alexis
-* 
+* Sanchez Espinosa Ivan David 
 *
 
 Coordinados por el profesor:
