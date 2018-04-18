@@ -20,6 +20,7 @@ El presente es un trabajo de los alumnos:
 * Ramírez Salazar Alejandro 
 * Sanchez Espinosa Ivan David
 * Pensamiento Robledo Sabrina Erika
+* Arellano Aguillòn Shu Nashy Nizarely 
 
 Coordinados por el profesor:
 
