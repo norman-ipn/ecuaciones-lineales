@@ -21,6 +21,7 @@ El presente es un trabajo de los alumnos:
 * Sanchez Espinosa Ivan David
 * Pensamiento Robledo Sabrina Erika
 * Arellano Aguillòn Shu Nashy Nizarely 
+* Lopez Dominguez Daniel Efrain
 
 Coordinados por el profesor:
 
