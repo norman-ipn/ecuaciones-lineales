@@ -5,7 +5,7 @@ Algoritmia y Programación Estructurada
 que se imparte en la ESCOM-IPN, México.
 
 El presente es un trabajo de los alumnos:
-* Garcia Reyeo
+* Garcia Reyes Luis Gerardo
 * Carranza López Ricardo Alexis 
 * Ramírez Salazar Alejandros
 * Machorro Melendez Hugo Andres
