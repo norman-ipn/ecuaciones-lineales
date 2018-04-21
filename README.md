@@ -22,6 +22,7 @@ El presente es un trabajo de los alumnos:
 * Pensamiento Robledo Sabrina Erika
 * Arellano Aguillòn Shu Nashy Nizarely 
 * Lopez Dominguez Daniel Efrain
+* Castillo Flores Magali
 
 Coordinados por el profesor:
 
