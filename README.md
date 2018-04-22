@@ -23,7 +23,7 @@ El presente es un trabajo de los alumnos:
 * Arellano Aguillòn Shu Nashy Nizarely 
 * Lopez Dominguez Daniel Efrain
 * Castillo Flores Magali
-
+* Torres Uraga Saul
 Coordinados por el profesor:
 
 Rafael Norman Saucedo Delgado
