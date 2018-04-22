@@ -24,6 +24,7 @@ El presente es un trabajo de los alumnos:
 * Lopez Dominguez Daniel Efrain
 * Castillo Flores Magali
 * Torres Uraga Saul
+ 
 Coordinados por el profesor:
 
 Rafael Norman Saucedo Delgado
