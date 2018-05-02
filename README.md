@@ -26,7 +26,7 @@ El presente es un trabajo de los alumnos:
 | Lopez Dominguez Daniel Efrain |  |  |
 | Castillo Flores Magali |  |  |
 | Torres Uraga Saul |  |  |
- 
+ Ortiz Chavez Karla 
 Coordinados por el profesor:
 
 Rafael Norman Saucedo Delgado
