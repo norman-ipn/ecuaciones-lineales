@@ -5,8 +5,9 @@ Algoritmia y Programación Estructurada
 que se imparte en la ESCOM-IPN, México.
 
 El presente es un trabajo de los alumnos:
+
 | Nombre             |  usuario github  |   función en la que trabajan |
-| -------------------|------------------|--------------------|
+|-------------------|------------------|--------------------|
 | Garcia Reyes Luis Gerardo |   |   |
 | Carranza López Ricardo Alexis |  |  |
 | Ramírez Salazar Alejandros |  |  |
