@@ -11,7 +11,7 @@ El presente es un trabajo de los alumnos:
 | Garcia Reyes Luis Gerardo |   |   |
 | Carranza López Ricardo Alexis |  |  |
 | Ramírez Salazar Alejandros |  |  |
-| Machorro Melendez Hugo Andres | Hugo Andres | Sustituir |
+| Machorro Melendez Hugo Andres | HugoAndres | Sustituir |
 | Ramírez Salazar Alejandro   |  |  |
 | Avendaño Llanos David |  |  |
 | Ramos Herrera Omar |  |  |
