@@ -20,7 +20,7 @@ El presente es un trabajo de los alumnos:
 | Caamal Briseño Diego Alejandro |  |  |
 | Contreras Mercado Jorge Armando |  |  |
 | Ramírez Salazar Alejandro  |  |  |
-| Sanchez Espinosa Ivan David |  |  |
+| Sanchez Espinosa Ivan David | DavidISE | restar.c |
 | Pensamiento Robledo Sabrina Erika |  |  |
 | Arellano Aguillòn Shu Nashy Nizarely  |  |  |
 | Lopez Dominguez Daniel Efrain |  |  |
