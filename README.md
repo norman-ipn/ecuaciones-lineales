@@ -16,7 +16,7 @@ El presente es un trabajo de los alumnos:
 | Avendaño Llanos David |  |  |
 | Ramos Herrera Omar |  |  |
 | Avendaño Llanos David |  |  |
-| Pérez González Mayer Abraham  |  |  |
+| Pérez González Mayer Abraham  | MayerPerez  | Multiplicar por reciproco |
 | Caamal Briseño Diego Alejandro |  |  |
 | Contreras Mercado Jorge Armando |  |  |
 | Ramírez Salazar Alejandro  |  |  |
