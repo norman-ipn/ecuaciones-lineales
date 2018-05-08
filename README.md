@@ -13,7 +13,7 @@ El presente es un trabajo de los alumnos:
 | Ramírez Salazar Alejandros |  |  |
 | Machorro Melendez Hugo Andres | HugoAndres | Sustituir |
 | Ramírez Salazar Alejandro   | AlejandroRS117 | Pedir valores |
-| Avendaño Llanos David |  |  |
+| Avendaño Llanos David | DavidALL | Sustituir |
 | Ramos Herrera Omar |  |  |
 | Avendaño Llanos David |  |  |
 | Pérez González Mayer Abraham  | MayerPerez  | Multiplicar por reciproco |
