@@ -9,7 +9,7 @@ El presente es un trabajo de los alumnos:
 | Nombre             |  usuario github  |   función en la que trabajan |
 |-------------------|------------------|--------------------|
 | Garcia Reyes Luis Gerardo |   |   |
-| Carranza López Ricardo Alexis |  |  |
+| Carranza López Ricardo Alexis | RAlexisL | Multiplicar por recíproco |
 | Ramírez Salazar Alejandros |  |  |
 | Machorro Melendez Hugo Andres | HugoAndres | Sustituir |
 | Ramírez Salazar Alejandro   | AlejandroRS117 | Pedir valores |
