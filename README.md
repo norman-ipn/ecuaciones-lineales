@@ -12,7 +12,7 @@ El presente es un trabajo de los alumnos:
 | Carranza López Ricardo Alexis |  |  |
 | Ramírez Salazar Alejandros |  |  |
 | Machorro Melendez Hugo Andres | HugoAndres | Sustituir |
-| Ramírez Salazar Alejandro   |  |  |
+| Ramírez Salazar Alejandro   | AlejandroRS117 | Pedir valores |
 | Avendaño Llanos David |  |  |
 | Ramos Herrera Omar |  |  |
 | Avendaño Llanos David |  |  |
