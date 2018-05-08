@@ -21,7 +21,7 @@ El presente es un trabajo de los alumnos:
 | Contreras Mercado Jorge Armando |  |  |
 | Ramírez Salazar Alejandro  |  |  |
 | Sanchez Espinosa Ivan David | DavidISE | restar.c |
-| Pensamiento Robledo Sabrina Erika |  |  |
+| Pensamiento Robledo Sabrina Erika | sabrinapens  | Pedir valores  |
 | Arellano Aguillòn Shu Nashy Nizarely  |  |  |
 | Lopez Dominguez Daniel Efrain |  |  |
 | Castillo Flores Magali |  |  |
