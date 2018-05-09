@@ -1,4 +1,4 @@
-# Ecuaciones Lineales 2018
+ Ecuaciones Lineales 2018
 
 Es un repositorio de trabajo para la asignatura de 
 Algoritmia y Programación Estructurada 
@@ -18,7 +18,7 @@ El presente es un trabajo de los alumnos:
 | Avendaño Llanos David |  |  |
 | Pérez González Mayer Abraham  | MayerPerez  | Multiplicar por reciproco |
 | Caamal Briseño Diego Alejandro |  |  |
-| Contreras Mercado Jorge Armando |  |  |
+| Contreras Mercado Jorge Armando | JACM8544  | Pedir valores |
 | Ramírez Salazar Alejandro  |  |  |
 | Sanchez Espinosa Ivan David | DavidISE | restar.c |
 | Pensamiento Robledo Sabrina Erika | sabrinapens  | Pedir valores  |
