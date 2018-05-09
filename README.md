@@ -13,15 +13,15 @@ El presente es un trabajo de los alumnos:
 | Ramírez Salazar Alejandros |  |  |
 | Machorro Melendez Hugo Andres | HugoAndres | Sustituir |
 | Ramírez Salazar Alejandro   | AlejandroRS117 | Pedir valores |
+| Contreras Mercado Jorge Armando | JACM8544  | Pedir valores |
+| Pensamiento Robledo Sabrina Erika | sabrinapens  | Pedir valores  |
 | Avendaño Llanos David | DavidALL | Sustituir |
 | Ramos Herrera Omar |  |  |
 | Avendaño Llanos David |  |  |
 | Pérez González Mayer Abraham  | MayerPerez  | Multiplicar por reciproco |
 | Caamal Briseño Diego Alejandro |  |  |
-| Contreras Mercado Jorge Armando | JACM8544  | Pedir valores |
 | Ramírez Salazar Alejandro  |  |  |
 | Sanchez Espinosa Ivan David | DavidISE | restar.c |
-| Pensamiento Robledo Sabrina Erika | sabrinapens  | Pedir valores  |
 | Arellano Aguillòn Shu Nashy Nizarely  |  |  |
 | Lopez Dominguez Daniel Efrain |  |  |
 | Castillo Flores Magali |  |  |
