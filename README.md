@@ -8,25 +8,26 @@ El presente es un trabajo de los alumnos:
 
 | Nombre             |  usuario github  |   función en la que trabajan |
 |-------------------|------------------|--------------------|
-| Garcia Reyes Luis Gerardo |   |   |
+| Pérez González Mayer Abraham  | MayerPerez  | Multiplicar por reciproco |
 | Carranza López Ricardo Alexis | RAlexisL | Multiplicar por recíproco |
-| Ramírez Salazar Alejandros |  |  |
-| Machorro Melendez Hugo Andres | HugoAndres | Sustituir |
 | Ramírez Salazar Alejandro   | AlejandroRS117 | Pedir valores |
 | Contreras Mercado Jorge Armando | JACM8544  | Pedir valores |
 | Pensamiento Robledo Sabrina Erika | sabrinapens  | Pedir valores  |
 | Avendaño Llanos David | DavidALL | Sustituir |
+| Machorro Melendez Hugo Andres | HugoAndres | Sustituir |
+| Sanchez Espinosa Ivan David | DavidISE | restar.c |
 | Ramos Herrera Omar |  |  |
 | Avendaño Llanos David |  |  |
-| Pérez González Mayer Abraham  | MayerPerez  | Multiplicar por reciproco |
 | Caamal Briseño Diego Alejandro |  |  |
 | Ramírez Salazar Alejandro  |  |  |
-| Sanchez Espinosa Ivan David | DavidISE | restar.c |
 | Arellano Aguillòn Shu Nashy Nizarely  |  |  |
 | Lopez Dominguez Daniel Efrain |  |  |
 | Castillo Flores Magali |  |  |
 | Torres Uraga Saul |  |  |
- Ortiz Chavez Karla 
+| Ortiz Chavez Karla | | |
+| Garcia Reyes Luis Gerardo |   |   |
+| Ramírez Salazar Alejandros |  |  |
+
 Coordinados por el profesor:
 
 Rafael Norman Saucedo Delgado
