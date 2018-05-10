@@ -20,7 +20,7 @@ El presente es un trabajo de los alumnos:
 | Avendaño Llanos David |  |  |
 | Caamal Briseño Diego Alejandro |  |  |
 | Ramírez Salazar Alejandro  |  |  |
-| Arellano Aguillòn Shu Nashy Nizarely  |  |  |
+| Arellano Aguillòn Shu Nashy Nizarely  | shunashyarellano-ipn  | Pedir N  |
 | Lopez Dominguez Daniel Efrain |  |  |
 | Castillo Flores Magali |  |  |
 | Torres Uraga Saul |  |  |
