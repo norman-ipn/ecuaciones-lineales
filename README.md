@@ -22,7 +22,7 @@ El presente es un trabajo de los alumnos:
 | Ramírez Salazar Alejandro  |  |  |
 | Arellano Aguillòn Shu Nashy Nizarely  | shunashyarellano-ipn  | Pedir N  |
 | Lopez Dominguez Daniel Efrain |  |  |
-| Castillo Flores Magali |  |  |
+| Castillo Flores Magali |  MagaliCF  |  Cambiar filas  |
 | Torres Uraga Saul |  |  |
 | Ortiz Chavez Karla | | |
 | Garcia Reyes Luis Gerardo |   |   |
