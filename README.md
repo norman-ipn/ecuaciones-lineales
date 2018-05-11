@@ -27,7 +27,7 @@ El presente es un trabajo de los alumnos:
 | Ortiz Chavez Karla | | |
 | Garcia Reyes Luis Gerardo |   |   |
 | Ramírez Salazar Alejandros |  |  |
-
+| Vallejo Serrano Ehecatzin  |Catzin  |Cambiar filas  | 					
 Coordinados por el profesor:
 
 Rafael Norman Saucedo Delgado
