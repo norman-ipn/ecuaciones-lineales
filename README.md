@@ -25,7 +25,7 @@ El presente es un trabajo de los alumnos:
 | Castillo Flores Magali |  MagaliCF  |  Cambiar filas  |
 | Torres Uraga Saul |  |  |
 | Ortiz Chavez Karla | | |
-| Garcia Reyes Luis Gerardo |   |   |
+| Garcia Reyes Luis Gerardo |GerardoGarciaLR   | Cambiar filas   |
 | Ramírez Salazar Alejandros |  |  |
 | Vallejo Serrano Ehecatzin  |Catzin  |Cambiar filas  | 					
 Coordinados por el profesor:
