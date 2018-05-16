@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void){ 
+int pedirvalores(void){ 
 
 float matriz [4][5]; /*El tamaño de la matriz ya la definen en otra función así que aquí usaré una matriz ya definida */
 
