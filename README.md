@@ -16,7 +16,7 @@ El presente es un trabajo de los alumnos:
 | Avendaño Llanos David | DavidALL | Sustituir |
 | Machorro Melendez Hugo Andres | HugoAndres | Sustituir |
 | Sanchez Espinosa Ivan David | DavidISE | restar.c |
-| Ramos Herrera Omar |  |  |
+| Ramos Herrera Omar | omar-14 | restar.c |
 | Avendaño Llanos David |  |  |
 | Caamal Briseño Diego Alejandro |  |  |
 | Ramírez Salazar Alejandro  |  |  |
