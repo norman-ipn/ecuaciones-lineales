@@ -1,4 +1,6 @@
-nclude < stdio.h > float restar (float m[][10], int i, int j, int n);
+#include <stdio.h> 
+
+float restar (float m[][10], int i, int j, int n);
 
 int
 maindeprueba (void)
@@ -50,7 +52,7 @@ restar (float m[][10], int i, int j, int n)
 
   for (c = 0; c < n; c++)
     {
-      if (m[j][c] = 0)
+      if (m[j][c] == 0)
 	{
 	  m[j][c] = m[i][c];
 	}

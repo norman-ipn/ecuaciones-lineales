@@ -8,25 +8,26 @@ El presente es un trabajo de los alumnos:
 
 | Nombre             |  usuario github  |   función en la que trabajan |
 |-------------------|------------------|--------------------|
-| Garcia Reyes Luis Gerardo |   |   |
+| Pérez González Mayer Abraham  | MayerPerez  | Multiplicar por reciproco |
 | Carranza López Ricardo Alexis | RAlexisL | Multiplicar por recíproco |
-| Ramírez Salazar Alejandros |  |  |
-| Machorro Melendez Hugo Andres | HugoAndres | Sustituir |
 | Ramírez Salazar Alejandro   | AlejandroRS117 | Pedir valores |
+| Contreras Mercado Jorge Armando | JACM8544  | Pedir valores |
+| Pensamiento Robledo Sabrina Erika | sabrinapens  | Pedir valores  |
 | Avendaño Llanos David | DavidALL | Sustituir |
+| Machorro Melendez Hugo Andres | HugoAndres | Sustituir |
+| Sanchez Espinosa Ivan David | DavidISE | restar.c |
 | Ramos Herrera Omar |  |  |
 | Avendaño Llanos David |  |  |
-| Pérez González Mayer Abraham  | MayerPerez  | Multiplicar por reciproco |
 | Caamal Briseño Diego Alejandro |  |  |
-| Contreras Mercado Jorge Armando | JACM8544  | Pedir valores |
 | Ramírez Salazar Alejandro  |  |  |
-| Sanchez Espinosa Ivan David | DavidISE | restar.c |
-| Pensamiento Robledo Sabrina Erika | sabrinapens  | Pedir valores  |
-| Arellano Aguillòn Shu Nashy Nizarely  |  |  |
+| Arellano Aguillòn Shu Nashy Nizarely  | shunashyarellano-ipn  | Pedir N  |
 | Lopez Dominguez Daniel Efrain |  |  |
-| Castillo Flores Magali |  |  |
+| Castillo Flores Magali |  MagaliCF  |  Cambiar filas  |
 | Torres Uraga Saul |  |  |
- Ortiz Chavez Karla 
+| Ortiz Chavez Karla | | |
+| Garcia Reyes Luis Gerardo |GerardoGarciaLR   | Cambiar filas   |
+| Ramírez Salazar Alejandros |  |  |
+| Vallejo Serrano Ehecatzin  |Catzin  |Cambiar filas  | 					
 Coordinados por el profesor:
 
 Rafael Norman Saucedo Delgado
