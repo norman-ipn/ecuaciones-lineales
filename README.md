@@ -11,7 +11,7 @@ El presente es un trabajo de los alumnos:
 | Pérez González Mayer Abraham  | MayerPerez  | Multiplicar por reciproco |
 | Carranza López Ricardo Alexis | RAlexisL | Multiplicar por recíproco |
 | Ramírez Salazar Alejandro   | AlejandroRS117 | Pedir valores |
-| Contreras Mercado Jorge Armando | JACM8544  | Pedir valores |
+| Contreras Mercado Jorgee Armando | JACM8544  | Pedir valores |
 | Pensamiento Robledo Sabrina Erika | sabrinapens  | Pedir valores  |
 | Avendaño Llanos David | DavidALL | Sustituir |
 | Machorro Melendez Hugo Andres | HugoAndres | Sustituir |
