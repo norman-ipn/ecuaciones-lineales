@@ -21,7 +21,7 @@ El presente es un trabajo de los alumnos:
 | Caamal Briseño Diego Alejandro |  |  |
 | Ramírez Salazar Alejandro  |  |  |
 | Arellano Aguillòn Shu Nashy Nizarely  | shunashyarellano-ipn  | Pedir N  |
-| Lopez Dominguez Daniel Efrain |  |  |
+| Lopez Dominguez Daniel Efrain | danikrkic | Pedir N  |
 | Castillo Flores Magali |  MagaliCF  |  Cambiar filas  |
 | Torres Uraga Saul |  |  |
 | Ortiz Chavez Karla | | |
