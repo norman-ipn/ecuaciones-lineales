@@ -23,7 +23,7 @@ El presente es un trabajo de los alumnos:
 | Arellano Aguillòn Shu Nashy Nizarely  | shunashyarellano-ipn  | Pedir N  |
 | Lopez Dominguez Daniel Efrain | danikrkic | Pedir N  |
 | Castillo Flores Magali |  MagaliCF  |  Cambiar filas  |
-| Torres Uraga Saul |  |  |
+| Torres Uraga Saul |SaulTU  |Mostrar  |
 | Ortiz Chavez Karla | | |
 | Garcia Reyes Luis Gerardo |GerardoGarciaLR   | Cambiar filas   |
 | Ramírez Salazar Alejandros |  |  |
