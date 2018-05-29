@@ -1,6 +1,6 @@
 main.o: main.c
 	gcc -c main.c -Wall
-pedir.o: pedir.o
+pedir.o: pedir.c
 	gcc -c pedir.c -Wall
 
 a.out: main.o pedir.o
