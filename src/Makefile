@@ -8,3 +8,7 @@ a.out: main.o pedir.o
 
 clear: 
 	rm main.o pedir.o a.out
+
+restar.o: restar.h
+	gcc -c restar.c -Wall
+	
