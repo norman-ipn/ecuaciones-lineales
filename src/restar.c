@@ -1,5 +1,5 @@
 float
-restar (float m[][10], int i, int j, int n)
+restar (float m[][], int i, int j, int n)
 {
 
   int c = 0;

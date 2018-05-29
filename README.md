@@ -6,6 +6,21 @@ que se imparte en la ESCOM-IPN, México.
 
 El presente es un trabajo de los alumnos:
 
+
+* Carranza López Ricardo Alexis 
+* Ramírez Salazar Alejandro 
+* Hugo Andres Machorro Melendez
+* Ramírez Salazar Alejandro  
+* Avendaño Llanos David
+* Ramos Herrera Omar
+* Pérez González Mayer Abraham
+* Caamal Briseño Diego Alejandro  
+* Contreras Mercado Jorge Armando
+* Sanchez Espinosa Ivan David
+* Pensamiento Robledo Sabrina Erik
+* Caamal Briseño Diego Alejandro  
+* Arellano Aguillón Shu Nashy Nizarely
+
 | Nombre             |  usuario github  |   función en la que trabajan |
 |-------------------|------------------|--------------------|
 | Pérez González Mayer Abraham  | MayerPerez  | Multiplicar por reciproco |

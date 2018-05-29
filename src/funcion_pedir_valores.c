@@ -2,7 +2,7 @@
 
 int pedirvalores(void){ 
 
-float A;
+int A;
 float matriz [A][A+1];
 
 int fil=0;
