@@ -1,8 +1,8 @@
-#include <stdio.h>
+i#include <stdio.h>
 
 int pedirvalores(void){ 
 
-float A;
+int A;
 float matriz [A][A+1];
 
 int fil=0;
