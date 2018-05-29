@@ -24,7 +24,7 @@ El presente es un trabajo de los alumnos:
 | Lopez Dominguez Daniel Efrain | danikrkic | Pedir N  |
 | Castillo Flores Magali |  MagaliCF  |  Cambiar filas  |
 | Torres Uraga Saul |SaulTU  |Mostrar  |
-| Ortiz Chavez Karla | | |
+| Ortiz Chavez Karla |KarlaOrtizC |Mostrar |
 | Garcia Reyes Luis Gerardo |GerardoGarciaLR   | Cambiar filas   |
 | Ramírez Salazar Alejandros |  |  |
 | Vallejo Serrano Ehecatzin  |Catzin  |Cambiar filas  | 					
