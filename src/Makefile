@@ -3,6 +3,9 @@ main.o: main.c
 pedir.o: pedir.c
 	gcc -c pedir.c -Wall
 
+reciproco.o: reciproco.c
+	gcc -c reciproco.c -Wall
+
 a.out: main.o pedir.o
 	gcc main.o pedir.o 
 
