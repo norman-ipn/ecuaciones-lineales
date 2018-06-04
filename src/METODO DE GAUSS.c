@@ -4,8 +4,7 @@
  //Pedir N
  
 int datos (void);
- 
-main(void)
+
 {
     int i, j;
     int n;
