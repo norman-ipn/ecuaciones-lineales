@@ -34,14 +34,12 @@ El presente es un trabajo de los alumnos:
 | Ramos Herrera Omar | omar-14 | restar.c |
 | Avendaño Llanos David |  |  |
 | Caamal Briseño Diego Alejandro |zorox69|Pedir valores de la ecuacion A |
-| Ramírez Salazar Alejandro  |  |  |
 | Arellano Aguillòn Shu Nashy Nizarely  | shunashyarellano-ipn  | Pedir N  |
 | Lopez Dominguez Daniel Efrain | danikrkic | Pedir N  |
 | Castillo Flores Magali |  MagaliCF  |  Cambiar filas  |
 | Torres Uraga Saul |SaulTU  |Mostrar  |
 | Ortiz Chavez Karla |KarlaOrtizC |Mostrar |
 | Garcia Reyes Luis Gerardo |GerardoGarciaLR   | Cambiar filas   |
-| Ramírez Salazar Alejandros |  |  |
 | Vallejo Serrano Ehecatzin  |Catzin  |Cambiar filas  | 
 					
 Coordinados por el profesor:
