@@ -1,16 +1,17 @@
-void
-sustituir (int n)
+float
+sustituir (int n, float A[n][n], float x[])
 {
   int i = 0, j = 0;
-  float A[n][n], sum = 0.0, x[n];
+  float sum = 0.0;
   x[n] = A[n][n + 1] / A[n][n];
   for (i = n - 1; i >= 1; i--)
     {
-      sum = 0;
+      sum = 0.0;
       for (j = i + 1; j <= n; j++)
 	{
 	  sum = sum + A[i][j] * x[j];
 	}
       x[i] = (A[i][n + 1] - sum) / A[i][i];
     }
+  return 0;
 }
