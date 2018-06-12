@@ -1,9 +1,6 @@
-#include <stdio.h>
-int
-pedirvalores (void)
+void
+pedirvalores (float m[][], int A)
 {
-  int A;
-  float matriz[A][A + 1];
   int fil = 0;
   int col = 0;
   for (fil = 0; fil < A; fil++)
@@ -12,8 +9,7 @@ pedirvalores (void)
 	{
 	  printf ("Ingrese el coeficiente del lugar matriz[%d][%d]\t",
 		  fil + 1, col + 1);
-	  scanf ("%f", &matriz[fil][col]);
+	  scanf ("%f", &m[fil][col]);
 	}
     }
-  return 0;
 }

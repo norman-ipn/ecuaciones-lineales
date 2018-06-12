@@ -1,1 +1,1 @@
-int pedirvalores(void);
+void pedirvalores (float m[][], int A);
