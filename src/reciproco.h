@@ -1,1 +1,2 @@
-void multrecip(float [0][10], int);
+void 
+multrecip(float n[10][11], int N, int i);
