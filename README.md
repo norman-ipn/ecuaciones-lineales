@@ -5,6 +5,8 @@ Algoritmia y Programación Estructurada
 que se imparte en la ESCOM-IPN, México.
 
 El presente es un trabajo de los alumnos:
+
+
 | Nombre             |  usuario github  |   función en la que trabajan |
 |-------------------|------------------|--------------------|
 | Pérez González Mayer Abraham  | MayerPerez  | Multiplicar por reciproco |
