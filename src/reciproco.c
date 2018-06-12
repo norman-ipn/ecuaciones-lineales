@@ -1,8 +1,8 @@
 void
-multrecip (float n[0][10], int N)
+multrecip (float n[10][11], int N, int i)
 {
   float r = 0, d = 0;
-  int i = 0, j;
+  int j;
   for (j = 0; j < N; j++)
     {
       if (n[i][j] != 1)
