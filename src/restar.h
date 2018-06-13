@@ -1,2 +1,2 @@
-float
-restar (float m[][], int i, int j);
+void
+restar (float m[][], int i, int j, int g, int n);

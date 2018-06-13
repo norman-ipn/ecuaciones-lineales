@@ -1,21 +1,22 @@
-float
-restar (float m[][], int i, int j, int n)
+void
+restar (float m[][], int i, int j, int g, int n)
 {
 
-  int c = 0;
-
-  for (c = 0; c < n; c++)
+  float t[];
+  for (c = g; c < (n + 1); c++)
+    {
+      t[c] = m[j][g] * m[i][c];
+    }
+  for (c = g; c < (n + 1); c++)
     {
       if (m[j][c] == 0)
 	{
-	  m[j][c] = m[i][c];
+	  m[j][c] = t[c] * (-1);
 	}
       else
 	{
-	  m[j][c] = m[i][c] - m[j][c];
-	  m[j][c]--;
+	  m[j][c] = m[j][c] - t[c];
 	}
     }
 
-  return m[j][c];
 }
