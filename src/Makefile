@@ -19,4 +19,5 @@ a.out: main.o pedir.o sustituir.o
 clear: 
 	rm main.o pedir.o sustituir.o a.out
 
-	
+run: a.out
+	./a.out
