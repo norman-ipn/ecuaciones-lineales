@@ -5,8 +5,7 @@
  //prototipo
 int datos ();
 
-int
-main ()
+int pedirn ()
 {
   int i, j;
   int n;
