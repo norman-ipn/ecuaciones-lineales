@@ -1,6 +1,3 @@
-#include<stdio.h>
-#define TAM 100
-
  //Pedir N
  //prototipo
 int datos ();
