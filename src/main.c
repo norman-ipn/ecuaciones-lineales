@@ -1,35 +1,41 @@
-#include<stdio.h>		/* fprintf */
-#include<errno.h>		/* ENOMEM */
-#include<stdlib.h>		/* malloc  */
-
-#include "usuario.h"		/* pedir_numero_ecuaciones y capturar_datos */
-#include "gauss.h"		/* aplicar_gauss_jordan */
-#include "resultado.h"		/* mostrar_resultado */
+#include<stdio.h>
+#include"sustituir.h"
+#include"restar.h"
+#include"reciproco.h"
+#include"funcion_pedir_valores.h"
+#include"pedirn.h"
+#include"mostrar.h"
+#include"imprimematriz.h"
 
 int
 main (void)
 {
-  const int MAX_ECUACIONES = 1000;
-  double *matriz = NULL;
-
-  int n = 0;
-
-  n = pedir_numero_de_ecuaciones ();
-
-  matriz =
-    (double *) malloc (sizeof (double) * MAX_ECUACIONES *
-		       (MAX_ECUACIONES + 1));
-  if (matriz == NULL)
+  float m[10][11];
+  float x[10];
+  int N, i = 0, j = 0, g = 0;
+  printf ("\n---------------ELIMINACION DE GAUSS-------------\n");
+  N = pedirn ();
+  pedirvalores (m, N);
+  printf ("La matriz ingresada es: \n");
+  impmat (m, N);
+  for (g = 0; g < (N + 1); g++)
     {
-      fprintf (stderr,
-	       "No hay memoria suficiente para almacenar esa cantidad de información\n");
-      return ENOMEM;
+
+      for (i = g; i < N; i++)
+        {
+          multrecip (m, N, i);
+          for (j = i + 1; j < N; j++)
+            {
+              restar (m, i, j, g, N);
+            }
+        }
     }
-
-
-  capturar_datos (matriz, n);
-  aplicar_gauss_jordan (matriz, n);
-  mostrar_resultado (matriz, n);
-
+  printf ("\nLa matriz final es: \n");
+  sustituir (m, x, N);
+  impmat (m, N);
+  printf ("\nLos resultados de las variables son: \n\n");
+  mostrar (x, m, N);
+  printf ("\n");
   return 0;
 }
+
