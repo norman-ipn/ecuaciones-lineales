@@ -1,2 +1,1 @@
-int datos();
-
+int pedirn ();
