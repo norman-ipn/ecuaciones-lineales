@@ -16,11 +16,17 @@ restar.o: restar.c
 sustituir.o: sustituir.c
 	gcc -c sustituir.c -Wall
 
-a.out: main.o pedirn.o funcion_pedir_valores.o reciproco.o restar.o sustituir.o
-	gcc main.o pedirn.o funcion_pedir_valores.o reciproco.o restar.o sustituir.o 
+imprimematriz.o: imprimematriz.c
+	gcc -c imprimematriz.c -Wall
 
-clear: 
-	rm a.out main.o pedirn.o funcion_pedir_valores.o reciproco.o restar.o sustituir.o 
+mostrar.o: mostrar.c
+	gcc -c mostrar.c -Wall
+
+a.out: main.o pedirn.o funcion_pedir_valores.o reciproco.o restar.o sustituir.o imprimematriz.o mostrar.o 
+	gcc main.o pedirn.o funcion_pedir_valores.o reciproco.o restar.o sustituir.o imprimematriz.o mostrar.o  
+
+clean: 
+	rm main.o pedirn.o funcion_pedir_valores.o reciproco.o restar.o sustituir.o imprimematriz.o mostrar.o 
 
 run: a.out
 	./a.out
