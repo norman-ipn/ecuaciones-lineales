@@ -1,5 +1,6 @@
+#include<stdio.h>
 void
-pedirvalores (float m[][], int A)
+pedirvalores (float m[10][11], int A)
 {
   int fil = 0;
   int col = 0;
@@ -12,4 +13,5 @@ pedirvalores (float m[][], int A)
 	  scanf ("%f", &m[fil][col]);
 	}
     }
+  printf ("\n");
 }
