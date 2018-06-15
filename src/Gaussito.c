@@ -3,20 +3,26 @@
 void    IngresaMatriz(float[][10], int, int);
 void    Mostrar(float[][10], int, int);
 void    SinSol(float[][10], int, int);
-void    Ceros(float[][10], int, int);
-void    Unos(float[][10], int, int);
+void    Ceros(float[][10], int, int, int);
+void    Unos(float[][10], int, int, int);
 int 
 main(void)
 {
-    int m = 0, n = 0;
+    int m = 0, n = 0, i = 0;
     printf("Ingresa m para crear una matriz de m x n donde n=m+1\n");
     scanf("%i",&m);
     n = m + 1;
-    float Mat[m][n];
+    float Mat[10][10];
     IngresaMatriz(Mat, m, n);
-//  SinSol(Mat, m, n);
-    Unos(Mat, m, n);
-    Ceros(Mat, m, n);
+//  
+    
+    
+    for(i=0; i <m ; i++)
+    {
+        Unos(Mat, m, n, i);
+        Ceros(Mat, m, n, i);
+    }
+    
     return 0;
 }
 void IngresaMatriz(float mxn[][10], int m, int n)
@@ -62,25 +68,19 @@ void SinSol(float mxn[][10], int m, int n)
         }
     }
 }
-void Ceros(float mxn[][10], int m, int n)
+void Ceros(float mxn[][10], int m, int n, int k)
 {
-    int x = 0, y = 0, aux = 0, i = 0, cts = 0;
-  
-    
+    int x = k, y = k, aux = 0, i = 0, cts = 0;
 //3 2 4 6 4 4 6 2 4 4 2 2 4 
-    for(x = 0; x < m-1; x++)
+    for(x = k; x < m-1; x++)
     {    
-        y=0;
+        y=k;
 //      for(y = 0; y < m; y++)
-//        {
-            printf("%di",x);
-                
-                   cts = ((-1)*(mxn[x+1][y]/mxn[0][0]));  
-                   printf("%do",x); 
-                   printf("%dh,%d\n",cts,mxn[x+1][y]);
-                    for(y = 0; y < n; y++)
+//        {             
+                   cts = ((-1)*(mxn[x+1][y]/mxn[k][k]));  
+                    for(y = k; y < n; y++)
                     {
-                        aux = (((cts)*(mxn[0][y]))+mxn[x+1][y]);
+                        aux = (((cts)*(mxn[k][y]))+mxn[x+1][y]);
                         mxn[x+1][y] = aux;
                     }
                 
@@ -90,25 +90,15 @@ void Ceros(float mxn[][10], int m, int n)
 
     Mostrar(mxn, m, n);
 }
-void Unos(float mxn[][10], int m, int n)
+void Unos(float mxn[][10], int m, int n, int k)
 {
-    int x = 0, y = 0, aux = 0, i = 0, cts = 0;
-
-
-    for(y = 0; y < n; y++)
-    {    
-//      for(y = 0; y < m; y++)
-//        {
-            if(x == y)
-            {
-                cts = mxn[x][y];
-                for(y = 0; y < n; y++)
-                {
-                    aux = (mxn[x][y]/cts);
-                    mxn[x][y] = aux;
-                }
-            }
-//        }
+    int x =  k, y = k, aux = 0, i = 0, cts = 0;
+    cts = mxn[x][y];
+    printf("%d\n", cts );
+    for(y = k; y < n; y++)
+    {
+        aux = (mxn[x][y]/cts);
+        mxn[x][y] = aux;
     }
     Mostrar(mxn, m, n);
 }
