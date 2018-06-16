@@ -8,7 +8,10 @@ hacerpares.o: hacerpares.c
 	gcc -c hacerpares.c -Wall
 
 encontrarn.o: encontrarn.c
-	gcc -c encontrarn.c -Wall
+	gcc -c encontrarn.c -Wall 
+
+concatenar.o: concatenar.c
+	gcc -c concatenar.c -Wall
 
 a.out: main.o encontrarn.o hacerpares.o recibirnumero.o  
 	gcc main.o encontrarn.o hacerpares.o recibirnumero.o   
