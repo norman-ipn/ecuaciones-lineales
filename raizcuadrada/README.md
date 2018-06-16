@@ -5,7 +5,7 @@ Realizado por:
 |-------------------|------------------|--------------------|
 | Sanchez Espinosa Ivan David | DavidISE | recibirnumero.c |
 |   |   | concatenar.c |
-|   |   | hacerbotita.c |
+| Carranza López Ricardo Alexis | RAlexisL  | hacerbotita.c |
 |   |   | encontrarnumero.c |
 |   |   | bajarpar.c |
 |   |   | imprimerraiz.c |
