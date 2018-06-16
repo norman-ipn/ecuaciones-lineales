@@ -4,7 +4,7 @@ Realizado por:
 | Nombre             |  Usuario github  |   Función en la que trabajan |
 |-------------------|------------------|--------------------|
 | Sanchez Espinosa Ivan David | DavidISE | recibirnumero.c |
-|   |   | concatenar.c |
+| Mayer Abraham Pérez González  | MayerPerez  | concatenar.c |
 | Carranza López Ricardo Alexis | RAlexisL  | hacerbotita.c |
 |   |   | encontrarnumero.c |
 |   |   | bajarpar.c |
