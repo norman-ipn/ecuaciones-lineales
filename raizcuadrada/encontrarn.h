@@ -1,0 +1,1 @@
+int encontrarn (int r);
