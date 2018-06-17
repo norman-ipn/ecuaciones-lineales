@@ -12,6 +12,9 @@ encontrarn.o: encontrarn.c
 
 concatenar.o: concatenar.c
 	gcc -c concatenar.c -Wall
+	
+hacerbotita.o: hacerbotita.c
+	gcc -c hacerbotita.c -Wall
 
 a.out: main.o encontrarn.o hacerpares.o recibirnumero.o  
 	gcc main.o encontrarn.o hacerpares.o recibirnumero.o   
