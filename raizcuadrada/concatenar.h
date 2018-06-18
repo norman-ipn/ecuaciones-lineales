@@ -1,1 +1,2 @@
-int concatenar (int, int);
+int
+concatenar (int a, int b);

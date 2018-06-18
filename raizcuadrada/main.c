@@ -4,6 +4,8 @@
 #include "recibirnumero.h"
 #include "encontrarprimerpar.h"
 #include "obtenerprimerraiz.h"
+#include "hacerbotita.h"
+#include "concatenar.h"
 int
 main ()
 {
@@ -11,5 +13,7 @@ main ()
   N = recibirnumero (r, N, par);
   p = encontrarprimerpar (N);
   resul = obtenerprimerraiz (par, p, N);
+  resul = hacerbotita(par, p, resul);
+printf("%d\n", resul);
   return 0;
 }
