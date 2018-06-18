@@ -1,0 +1,2 @@
+int
+encontrarprimerpar (int N);
