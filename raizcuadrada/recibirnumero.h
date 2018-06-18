@@ -1,2 +1,2 @@
 int
-recibirnumero (int r, int N, int par[5]); 
+recibirnumero (int r, int par[5]); 

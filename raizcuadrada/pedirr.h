@@ -1,0 +1,2 @@
+int
+pedirr(void);

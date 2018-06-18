@@ -2,10 +2,9 @@
 #include "encontrarn.h"
 #include "hacerpares.h"
 int
-recibirnumero (int r, int N, int par[5])
+recibirnumero (int r, int par[5])
 {
-  printf ("Ingrese el numero para obtener su raiz cuadrada.\n");
-  scanf ("%d", &r);
+int N=0;
   N = encontrarn (r);
   hacerpares (par, r);
   return N;

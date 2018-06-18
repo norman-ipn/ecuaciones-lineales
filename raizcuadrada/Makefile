@@ -22,11 +22,17 @@ obtenerprimerraiz.o: obtenerprimerraiz.c
 hacerbotita.o: hacerbotita.c
 	gcc -c hacerbotita.c -Wall
 
-a.out: main.o encontrarn.o hacerpares.o recibirnumero.o encontrarprimerpar.o obtenerprimerraiz.o hacerbotita.o concatenar.o
-	gcc main.o encontrarn.o hacerpares.o recibirnumero.o encontrarprimerpar.o obtenerprimerraiz.o hacerbotita.o concatenar.o
+mostrarraiz.o: mostrarraiz.c
+	gcc -c mostrarraiz.c -Wall
+
+pedirr.o: pedirr.c
+	gcc -c pedirr.c -Wall
+
+a.out: main.o encontrarn.o hacerpares.o recibirnumero.o encontrarprimerpar.o obtenerprimerraiz.o hacerbotita.o concatenar.o mostrarraiz.o pedirr.o
+	gcc main.o encontrarn.o hacerpares.o recibirnumero.o encontrarprimerpar.o obtenerprimerraiz.o hacerbotita.o concatenar.o mostrarraiz.o pedirr.o
 
 clean: 
-	rm a.out main.o encontrarn.o hacerpares.o recibirnumero.o encontrarprimerpar.o obtenerprimerraiz.o hacerbotita.o concatenar.o
+	rm a.out main.o encontrarn.o hacerpares.o recibirnumero.o encontrarprimerpar.o obtenerprimerraiz.o hacerbotita.o concatenar.o mostrarraiz.o pedirr.o
 
 run: a.out
 	./a.out
