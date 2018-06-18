@@ -6,7 +6,7 @@ Realizado por:
 | Sanchez Espinosa Ivan David | DavidISE | recibirnumero.c |
 | Mayer Abraham Pérez González  | MayerPerez  | concatenar.c |
 | Carranza López Ricardo Alexis | RAlexisL  | hacerbotita.c |
-| Avendaño Llanos David  |  | encontrarnumero.c |
+| Avendaño Llanos David  | DavidALL | encontrarnumero.c |
 |   |   | bajarpar.c |
 |   |   | imprimerraiz.c |
 
